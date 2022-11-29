@@ -24,7 +24,7 @@
     <ProjectGuid>{57bf2c01-d8a9-4dae-8ad0-efb90dade971}</ProjectGuid>
     <RootNamespace>parallelprogrammingcpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>parallel_programming</ProjectName>
+    <ProjectName>parallel_programming_cpp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
